@@ -1,2 +1,3 @@
 # solidpoly
-Library of descriptive code for various volumes
+
+SolidPoly is a means of organizing, publishing, and utilizing a library of 3D shapes and 4D processes.
